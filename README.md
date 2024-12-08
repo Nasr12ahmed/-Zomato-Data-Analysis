@@ -1,3 +1,12 @@
-"Analyzed the gaps between online delivery services and table booking services, identifying growth opportunities for Zomato.
-Provided insights on how to improve customer ratings for low-rated restaurants.
-Presented strategic growth suggestions, including international expansion and quality improvement programs.
+Project Description:
+This project analyzes the gaps between delivery services and table reservation services for Zomato. The analysis aims to identify growth opportunities and provide strategic suggestions to enhance performance.
+
+Tools Used:
+Excel
+Power BI
+Tableau
+PowerPoint
+Objective:
+Analyze the reasons behind low customer ratings for poorly rated restaurants.
+Provide insights into growth opportunities, such as international expansion and quality improvement programs.
+Note: All details and analyses are summarized in the provided PowerPoint file.
